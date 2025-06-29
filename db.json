@@ -8,6 +8,7 @@
 "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/d8552b11-ea4b-46e6-8b5c-287640b049cf_391005.jpg",
 "locality": "Patel Narayana Reddy Layout",
 "areaName": "EJIPURA",
+"promoted": true,
 "costForTwo": "₹250 for two",
 "cuisines": [
 "Biryani",
@@ -97,6 +98,7 @@
 "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/10/8f5cea18-dacd-4392-a877-8444e6a0e8aa_750225.jpg",
 "locality": "6TH BLOCK",
 "areaName": "Koramangala",
+"promoted": false,
 "costForTwo": "₹250 for two",
 "cuisines": [
 "Home Food",
@@ -193,6 +195,7 @@
 "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/8/b1e9f652-dc8d-4789-9710-6485ec06846e_390057.jpg",
 "locality": "6th Block",
 "areaName": "Koramangala",
+"promoted": true,
 "costForTwo": "₹250 for two",
 "cuisines": [
 "North Indian",
@@ -296,6 +299,7 @@
 "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/3/01f48b92-adaf-444d-a404-f49d23f0bf6c_643665.jpg",
 "locality": "Patel Narayana Reddy Layout",
 "areaName": "Ejipura",
+"promoted": false,
 "costForTwo": "₹250 for two",
 "cuisines": [
 "Healthy Food",
@@ -392,6 +396,7 @@
 "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/11/5e24e79a-fdf5-4c6c-b200-64aa6c40e2b4_667571.jpg",
 "locality": "hosur Road Lakkasandra",
 "areaName": "Koramangala",
+"promoted": true,
 "costForTwo": "₹500 for two",
 "cuisines": [
 "Burgers",
